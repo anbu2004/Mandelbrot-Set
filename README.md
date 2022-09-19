@@ -1,2 +1,2 @@
-# Poker-Mod
-A simulation of a modified version poker game
+# Mandelbrot-Set
+A representation of the Mandelbrot-Set
